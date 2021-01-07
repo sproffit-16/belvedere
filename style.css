@@ -283,7 +283,7 @@ div .photo{
 
 /*chiffres clés*/
 .chiffres{
-    background-image: url(fond-chiffres.svg);
+    background-image: url(images/fond-chiffres-cles.png);
     background-position: center;
     background-size: cover;
     padding-top: 150px;
@@ -543,7 +543,7 @@ http://flickity.metafizzy.co
 
   #témoignages{
     margin-top: 80px;
-    background-image: url(fond-témoignage.svg);
+    background-image: url(images/fond-temoignage.svg);
     background-size: 90%;
     background-position: right 80%;
     background-repeat: no-repeat;
